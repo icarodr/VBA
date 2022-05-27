@@ -1,2 +1,2 @@
 # VBA
-Projeto de VBA desenvolvido na Bosch
+Projeto de VBA desenvolvido na Bosch.
